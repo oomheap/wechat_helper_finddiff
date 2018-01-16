@@ -1,6 +1,8 @@
-# wechat_helper_finddiff
-
 ## 微信小游戏 大家来找茬 助手
+
+*准备:*  
+*1.电脑需要安装[adb](https://developer.android.com/studio/releases/platform-tools.html)*  
+*2.手机需要开启USB调试,并且允许模拟点击*
 
 ### 步骤:
 #### 1.运行FindDiffUI,会在电脑启动一个界面
